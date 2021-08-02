@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @joao-fonseca-proj. Mostly a backend developer, but have the capability to do literally anything. :) 
+- This is my personal account where I'll share my little side projects.
